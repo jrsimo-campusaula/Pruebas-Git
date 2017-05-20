@@ -1,7 +1,4 @@
-<<<<<<< HEAD
-Primer comentario
-=======
 Primer comentario
 jrsimo: añade segundo comentario
 jrsimo: añado tercer comentario
->>>>>>> jrsimo-origin/funcion_jrsimo
+Arreglado por jrsimo-campusaula
