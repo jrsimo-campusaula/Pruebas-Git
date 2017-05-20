@@ -1,3 +1,9 @@
-Primer comentario
-jrsimo: a�ade segundo comentario
-jrsimo: a�ado tercer comentario
+﻿Primer comentario
+jrsimo: añade segundo comentario
+jrsimo: añado tercer comentario
+Arreglado por jrsimo-campusaula
+A ver que hace el fetch
+Otro fetch
+Añado fetch en local/remoto
+Probando más fetch
+Y la prueba final fetch
